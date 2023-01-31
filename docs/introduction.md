@@ -10,13 +10,13 @@ Swarm is a decentralised data storage and distribution technology, ready to powe
 
 Conceptualised by Ethereum's founders as the storage network to complent the blockchain, it is engineered from the ground up to be a closely integrated storage provider for EVM based smart contracts. 
 
-# Join the swarm 
+# Access swarm 
 
 Swarm consists of thousands of computers worldwide that are connected to each other forming a resiliant P2P network. There are three main ways for you to participate in the Swarm network.
 
-- Run Swarm Desktop on your own computer
-- Run a Full Node and get ready to earn BZZ
-- Run a Gateway Node
+- Run Light Node [Swarm Desktop]() on your own computer
+- Run a [Full Node](), provide storage to the network and get ready to earn BZZ
+- Run a [Gateway Node]()
 
 If you'd like to give Swarm a try, or access the Swarm network from a computer that is not yet running a Bee node, you can try it out using one of the [public gateways]().
 
@@ -24,10 +24,11 @@ If you'd like to give Swarm a try, or access the Swarm network from a computer t
 
 Follow these tutorials to learn more about what you can do with Swarm.
 
-- Browse websites that are hosted on Swarm (1m)
-- Upload a short lived file using the gateway (5m)
-- Upload NFT metadata using your lightnode and manage it's stamps (20m)
-- Host a website using ENS domain (1h)
+- [Browse websites]() that are hosted on Swarm (1m)
+- [Upload a file]() using the gateway (5m)
+- [Host a website]() using ENS domain (1h)
+- [Upload NFT metadata]() using your light node and swarm-cli to manage it's stamps (20m)
+- [Steward your data]() using swarm-cli (Afternoon)
 
 # Find Out More
 
